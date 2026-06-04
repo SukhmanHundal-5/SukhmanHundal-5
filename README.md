@@ -1,38 +1,73 @@
-# 👾 Remag’s Legendary README
-> "If there’s one thing I’m serious about…it’s being unserious."
+# 👾 Remag
+
+# 💫 About Me:
+💡 Idea-driven builder<br>🎬 Video editor & content creator<br>🤖 Exploring AI and automation<br>💻 Learning full-stack development through real projects<br>🎨 Interested in product design and user experience<br>🚀 Turning concepts into working products<br>🧠 Chronic overthinker<br>📚 Always learning<br>🔥 Building more than I consume
+
+> "Most of my skills came from wanting to build something and refusing to stop until it worked."
+
 ---
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx0cTNleHg4MXVpYmVoMnR5aTVpYnM0azA0NjNlZms2Ync3cmkybSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46CyJmS9KUbokzsI/200.webp)
-<br><br>🎮 Gamer. Trash-talker. Button-masher.<br><br>🎬 Video editor making spicy cuts and memes.<br><br>🎨 Graphic designer with too many layers open.<br><br>🤡 Professional overthinker and chaos distributor.<br><br>💪 Trying to get jacked, still looks like a snack.<br><br>🚫 Not here for code. Here for CREATIVITY.<br><br>
+### 🎬 Creator • 💻 Builder • 🤖 AI Explorer
 
-## 🔥 WHAT I DO
+I'm someone who spends an unreasonable amount of time thinking about ideas.
 
-- Make videos that **SLAP.**  
-- Design stuff that makes you go “DAAAAMN.”  
-- Obsess over tech and movies.  
-- Post memes instead of working.  
-- Dream of abs. Have chips instead.
+Some stay ideas.
 
-| Me editing | Me when DaVinci crashes |
-|------------|------------------------|
-| ![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhoZjJlM2xnaTZ0aW5pazdsaDNuNXIyb2NyNmZ0bWo2eXJkaDBqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iFU36VwXUd2O43gdcr/200.webp) | ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JkcXV6eGR5dDdndmtqbzhnYmVmeGhqajJsY2U4YjEyejgxdm9jcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlsuCTKm22AdhJQtf2/200.webp) |
+Some become projects.
+
+Lately, I've been exploring the intersection of AI, software, automation, content creation, and product design. Most of what I build starts with curiosity, a lot of trial and error, and a stubborn refusal to leave an idea unfinished.
+
+---
+
+## 🔥 What I Do
+
+- Turn random ideas into real projects
+- Build AI-powered tools and applications
+- Edit videos until the timeline files beg for mercy
+- Learn whatever skill is needed to finish the job
+- Overthink everything, then build it anyway
+
+---
+
+## 🚀 Featured Project
+
+### Creator Assistant
+
+An AI-powered desktop application that helps creators transform long-form videos into short-form content.
+
+Features
+- 🎯 AI Viral Moment Detection
+- ✍️ Automatic Subtitle Generation
+- 🤖 AI-Generated Titles & Captions
+- 📱 Vertical & Horizontal Clip Export
+- 🔒 Local-First Video Processing
+
+Built With
+Electron • Next.js • FastAPI • Gemini • FFmpeg
+
+---
+
+## 💭 Current Philosophy
+
+> I don't need to know everything before I start.
+>
+> If I want to build something badly enough, I'll figure it out.
+
+---
+
+### Current Mission
+
+Building useful things. Learning aggressively. Shipping projects.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/remagftw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/remagftw/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/remagftw/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/REEEEMAAAAG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:remagval@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/remagftw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sukhman (Remag) Hundal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukhmanhundal5@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sukhmanhundal-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sukhmanhundal-5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=sukhmanhundal-5&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sukhmanhundal-5&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sukhmanhundal-5&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sukhmanhundal-5&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sukhmanhundal-5&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-> “I’m Remag. And this README is LEGENDARY.”
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
